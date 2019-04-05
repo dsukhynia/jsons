@@ -1,0 +1,26 @@
+[
+    {
+        "city" : "Kiev",
+        "weather" : "Sunny",
+        "temp" : "25",
+        "numidity" : "70"
+    },
+    {
+        "city" : "Moscow",
+        "weather" : "Raining",
+        "temp" : "20",
+        "numidity" : "90"
+    },
+    {
+        "city" : "Atlanta",
+        "weather" : "Overcast",
+        "temp" : "38",
+        "numidity" : "75"
+    },
+    {
+        "city" : "Istanbul",
+        "weather" : "Sunny",
+        "temp" : "35",
+        "numidity" : "70"
+    }
+]
